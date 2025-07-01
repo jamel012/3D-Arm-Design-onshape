@@ -34,6 +34,6 @@ Joint assembly using mechanical mates
 
 DOF planning and mechanical articulation
 
-
+https://github.com/user-attachments/assets/93821dd2-9c2b-498e-9d2e-066e5c3b2eaa
 
 Status 🟢 Complete
